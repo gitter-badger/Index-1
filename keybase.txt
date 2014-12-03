@@ -1,1 +1,65 @@
-Just to verify the domain at keybase.io
+==================================================================
+https://keybase.io/pixelrobot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pixelrobot.net
+  * I am pixelrobot (https://keybase.io/pixelrobot) on keybase.
+  * I have a public key with fingerprint 0E57 154D B294 36CC B8CA  86CE B1CF 30C6 B5EC 8AC5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0e57154db29436ccb8ca86ceb1cf30c6b5ec8ac5",
+            "host": "keybase.io",
+            "key_id": "b1cf30c6b5ec8ac5",
+            "uid": "36b72228363b82d6cc5534ffbd44fc00",
+            "username": "pixelrobot"
+        },
+        "service": {
+            "hostname": "pixelrobot.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1417614722,
+    "expire_in": 157680000,
+    "prev": "6ddfcb26a5a5764cfeebdcd60dd0353520226cfdbf01fad941da06b802273341",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMHiAnicbZFbSBRRGMd3TY1dTLIwSylkKLB1Xea+6yL1YCihiQ+5JkXbnDNndmfX
+nVlnx/WGVohPGQmJPSgqtF0gKRQiKgyT6EKm2I1wW7CnLlYKKYopdUbqqc7L4fy/
+3///fR/n0ZZNJqv5Bd/7anVf9W7z87GletPR05ntLQRQxSbC3UIE0cYlyYoPaWFN
+VnTCTZCIc1IcKwK6kGV4CIELCi4eIkBBiSEhDzgEXQLkCDvhVyOGA8cAIYIcsoo1
+/PDKIlb/w9dvFBgeOGmadjE8A1y0iFtwHMNKEhBZVoIkaYARpClCCGE6LDeiWk0F
+qk602gmsR2WIjKmN5v8wDgXp2B/WVF2Fai2u+XU97DaselPYYBsQ8P5J8QJZEfHu
+2BBFWkRWFcJNYRLqshFLsZSTp1g8q51AjWFZQ17ZIDgn7yLxMdqgKI7kRVGCgOYF
+TsA1FkoIARGKPCmKJMMxHE3SNA8lEUgkJQliIUuJAskDF5adDMNShLFXnaISbhaP
+KfhwZET2KYJeryGidXzsRLLJbDWlpiQZv2eyWrb+/dP+nZt/BfY2LvR1TL/8HggB
+T3Hp5e221wM/4exi5sf5xyHP+4KGT28c8XNPcleun42DewNtRZ6reTmTw/m7lNFF
+WR+Pp7ddausc/pDrteUEDtrKTpVe8XSt2S03i6ZG9+t3O7Lb58oS84mSh6EVgZCf
+9RcPHc8rvjOYld8ZrL4WUNPiscq5Mw1WPdf/VaDzCHghZlla7fXnfTv04P7TlKS1
+5ZmRMjq5eX7wxsT6ZHYiq6TGWTdaM9e8MDRTU5mR8U7rObZ+8eSio/w2N5xhTZ0t
+GKk4EKzqipZ370gcqZx+G/J9OWybomPdfbDqR8G2iuSgpejW8nra5/PaxB5zek/s
+NzipFx8=
+=847m
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pixelrobot
+
+==================================================================
