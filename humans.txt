@@ -1,0 +1,9 @@
+/* TEAM */
+	Chef: Juan Baruque
+	Contact: http://emm.pixelrobot.net
+	Twitter: @PixelRobot
+	Location: RGS
+
+For more information visit http://about.pixelrobot.net
+
+Coded with love by Juan Baruque. {<3}
