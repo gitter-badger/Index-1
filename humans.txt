@@ -1,9 +1,9 @@
 /* TEAM */
 	Code Sorcerer: Juan Baruque
-	Contact: http://emm.pixelrobot.net
+	Contact: http://contact.pixelrobot.net
 	Twitter: @PixelRobot
 	Location: RGS
 
-For more information visit http://contact.pixelrobot.net
+For more information visit http://about.pixelrobot.net
 
 Coded with love by Juan Baruque. {<3}
