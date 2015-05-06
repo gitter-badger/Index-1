@@ -1,5 +1,5 @@
 /* TEAM */
-	Chef: Juan Baruque
+	Code Sorcerer: Juan Baruque
 	Contact: http://emm.pixelrobot.net
 	Twitter: @PixelRobot
 	Location: RGS
